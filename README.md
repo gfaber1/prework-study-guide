@@ -1,7 +1,6 @@
 # Prework study guide webpage
 
-## Description
-Wanted to create a simple organized webpage for new bootcamp students. I built this because it is a good way to practice and learn the basic tools i will need throughout the Coding bootcamp. This webpage solves the problemv of students spending extra time looking for information. I learned a lot of basic things about HTML, CSS, and JavaScript, I also learned how to think like a developer.
+## Wanted to create a simple organized webpage for new bootcamp students. I built this because it is a good way to practice and learn the basic tools i will need throughout the Coding bootcamp. This webpage solves the problemv of students spending extra time looking for information. I learned a lot of basic things about HTML, CSS, and JavaScript, I also learned how to think like a developer.
 
 ## Installation
 
